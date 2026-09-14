@@ -18,7 +18,7 @@ unsigned long long factorial(int n) {
     }
     return fact;
 }
-
+// Надеюсь не слишком дохрена написал ^_:
 // Функция для безопасного ввода вещественного числа
 double get_double(const char* prompt) {
     double val;
